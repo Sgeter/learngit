@@ -13,4 +13,7 @@ This is write in master branch afeter wrote in featuer1 branch.
 
 write in dev branch again.
 
+Fix bug01 in ubuntu.
+
 modify something in windows env.
+
